@@ -1,0 +1,25 @@
+.bs-tooltip-auto[x-placement^=right] .arrow::before, .bs-tooltip-right .arrow::before{
+    border-right-color: white;
+}
+.tooltip-inner{
+    background-color: white;
+    color: #000;
+    font-weight: 480;
+}
+.icon{
+    color: white;
+    width: 40px;
+}
+.icon:hover{
+    cursor: pointer;
+}
+.rw{
+    margin-top: 50px;
+}
+.rw:last-child{
+    margin-bottom: 40px;
+}
+.col-md-1{
+    border-right: 1px solid white;
+    background: black;
+}
